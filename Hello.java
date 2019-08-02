@@ -1,5 +1,5 @@
-public class Hello{
+﻿public class Hello{
 	public static void sayHello(String msg) {
-		System.out.println("你好中国！");
+		System.out.println(msg);
 	}
 }
